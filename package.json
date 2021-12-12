@@ -1,0 +1,23 @@
+{
+  "name": "node_send_email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwakeChloe/node_send_email.git"
+  },
+  "author": "ksy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwakeChloe/node_send_email/issues"
+  },
+  "homepage": "https://github.com/AwakeChloe/node_send_email#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.2",
+    "nodemailer-smtp-transport": "^2.7.4"
+  }
+}
